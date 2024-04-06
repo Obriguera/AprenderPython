@@ -9,3 +9,5 @@ date_string = "{}/{}/{}".format(day, month, year)
 
 # Print the examination schedule
 print("The examination will start from:", date_string)
+
+#dads

@@ -5,3 +5,5 @@ if radio.isdigit():
     print("El área del círculo es:", area)
 else:
     print("No se cargó un dato válido.")
+
+#ads
